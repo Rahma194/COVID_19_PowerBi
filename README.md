@@ -2,6 +2,7 @@
 my first Power BI dashboard created using data from Worldometers about the COVID-19 pandemic.
 
 🔍 Dashboard Details:
+
 _In-depth analysis of cases, recoveries, and deaths across different countries.
 
 _Interactive charts and map that help track the daily progression of the pandemic.
