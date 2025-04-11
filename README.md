@@ -9,5 +9,5 @@ _Interactive charts and map that help track the daily progression of the pandemi
 
 _Flexibility to filter data by country or continent and compare numbers between nations.
 
-Data source : https://lnkd.in/df7AN8yh
+Data source : [https://lnkd.in/df7AN8yh](https://www.worldometers.info/coronavirus/)
 ![Dashboard](Dashboard.png)
